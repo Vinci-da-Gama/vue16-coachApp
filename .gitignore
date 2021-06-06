@@ -23,3 +23,7 @@ pnpm-debug.log*
 *.sw?
 
 **/*.txt
+
+src/cullIcons.js
+src/main.js
+src/store
