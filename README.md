@@ -1,4 +1,4 @@
-# practice-s16
+# Practice_S16
 
 ## Project setup
 ```

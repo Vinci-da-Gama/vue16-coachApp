@@ -1,14 +1,18 @@
 <template>
-  <Navigation />
-  <router-view/>
+  <div>
+    Coaches...
+  </div>
 </template>
 
 <script>
-import Navigation from './share/Navigation'
+// @ is an alias to /src
 
 export default {
+  name: 'Coaches',
   components: {
-    Navigation
+  },
+  setup () {
+    return {}
   }
 }
 </script>
