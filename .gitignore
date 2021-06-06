@@ -27,3 +27,4 @@ pnpm-debug.log*
 src/cullIcons.js
 src/main.js
 src/store
+src/constants
