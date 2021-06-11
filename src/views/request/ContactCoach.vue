@@ -1,0 +1,11 @@
+<template>
+	Contact A Coach
+</template>
+
+<script>
+export default {
+}
+</script>
+
+<style lang="scss" scoped>
+</style>
