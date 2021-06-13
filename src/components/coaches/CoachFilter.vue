@@ -44,12 +44,8 @@ export default {
   	const setFilter = (event) => {
   		const key = event.target.id;
   		const isActive = event.target.checked;
-  		/*filters = {
-  			...filters,
-  			[key]: isActive
-  		};*/
   		filters[key] = isActive;
-  		console.log('52 -- this.filters: ', filters)
+  		console.log('48 -- this.filters: ', filters)
   		ctx.emit('change-filter', filters)
   	}
 
